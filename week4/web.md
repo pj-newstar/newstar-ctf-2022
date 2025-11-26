@@ -15,7 +15,7 @@ PythonSSTI 模板注入漏洞系列第二题，这次不信你们还能绕过我
 
 | 出题人  | 难度 | 附件 | 环境镜像 | 端口 |
 |---------|------|------|----------|------|
-| JackPot | 简单 | [Remo_0.0.1_SNAPSHOT.jar](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week4/Remo_0.0.1_SNAPSHOT.jar) | [newstar-2022:week4_rome](https://hub.docker.com/r/openctf/newstar-2022/tags?name=week4_rome) | `8080` |
+| JackPot | 简单 | [Remo_0.0.1_SNAPSHOT.jar](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week4/Remo_0.0.1_SNAPSHOT.jar) | [newstar-2022:week4_rome](https://hub.docker.com/r/openctf/newstar-2022/tags?name=week4_rome) | `8080` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details >

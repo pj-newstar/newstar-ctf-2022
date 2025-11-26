@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| Sias27 | 简单 | [keyExchange.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week3/keyExchange.zip) |
+| Sias27 | 简单 | [keyExchange.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week3/keyExchange.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{d1ff1e_h311m4n_is_4_p13c3_0f_c4k3}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| Sias27 | 简单 | [onetimepad.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week3/onetimepad.zip) |
+| Sias27 | 简单 | [onetimepad.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week3/onetimepad.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{frequency_analysis_could_be_useful#A6DC1D643A29}</code>
@@ -28,7 +28,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| Sias27 | 简单 | [shamir.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week3/shamir.zip) |
+| Sias27 | 简单 | [shamir.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week3/shamir.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{w0w_y0u_k0nw_sham1r_s3cret_5h4r1ng_4nd_1agrange_interpolation!!!}</code>
@@ -44,7 +44,7 @@ Shamir 教授悄悄过去留下小秘密 ~
 
 | 出题人   | 难度 | 附件 |
 |----------|------|------|
-| Sycamore | 中等 | [AES.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week3/AES.zip) |
+| Sycamore | 中等 | [AES.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week3/AES.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{7h7gi3nl-ald4ssf8-eajfwm7t-rujquhmg}</code>

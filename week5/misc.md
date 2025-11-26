@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| 烨     | 简单 | [task.txt](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week5/task.txt) |
+| 烨     | 简单 | [task.txt](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week5/task.txt) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{S0B48yCA}</code>
@@ -16,7 +16,7 @@ J1an 师傅写的情书，我是没看懂，难怪他单身
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| 烨     | 简单 | [sqli.pcap](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week5/sqli.pcap) |
+| 烨     | 简单 | [sqli.pcap](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week5/sqli.pcap) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{c84bb04a-8663-4ee2-9449-349f1ee83e11}</code>
@@ -28,7 +28,7 @@ So Easy！分析出黑客获取的机密文件内容！
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| qsdz   | 简单 | [Yesec_no_drumsticks_5.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week5/Yesec_no_drumsticks_5.zip) |
+| qsdz   | 简单 | [Yesec_no_drumsticks_5.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week5/Yesec_no_drumsticks_5.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Yesec#1s#c@ibi}</code>
@@ -40,7 +40,7 @@ So Easy！分析出黑客获取的机密文件内容！
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| qsdz   | 中等 | [girlfriend5.rar](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week5/girlfriend5.rar) |
+| qsdz   | 中等 | [girlfriend5.rar](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week5/girlfriend5.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{W3lc0me_tO_be_NewSt@rs!}</code>
@@ -64,7 +64,7 @@ So Easy！分析出黑客获取的机密文件内容！
 
 | 出题人    | 难度 | 附件 |
 |-----------|------|------|
-| Coldwinds | 困难 | [strange2.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week5/strange2.zip) |
+| Coldwinds | 困难 | [strange2.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week5/strange2.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{It_1s_a_fak3_but_r3al_PDF}</code>

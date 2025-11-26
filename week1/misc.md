@@ -4,7 +4,7 @@
 
 | 出题人   | 难度 | 附件 |
 |----------|------|------|
-| Komplize | 签到 | [Eye.jpg](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/Eye.jpg) |
+| Komplize | 签到 | [Eye.jpg](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/Eye.jpg) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{L0ok_m3_1n_my_ey3s}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| qsdz   | 签到 | [Yesec_no_drumsticks_1.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/Yesec_no_drumsticks_1.zip) |
+| qsdz   | 签到 | [Yesec_no_drumsticks_1.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/Yesec_no_drumsticks_1.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Yesec_1s_lsb}</code>
@@ -28,7 +28,7 @@ Yesec 是个老涩逼（lsb），所以要给他扣鸡腿
 
 | 出题人    | 难度 | 附件 |
 |-----------|------|------|
-| Coldwinds | 简单 | [audio.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/audio.zip) |
+| Coldwinds | 简单 | [audio.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/audio.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{SSTV_and_R0b0t36}</code>
@@ -40,7 +40,7 @@ Yesec 是个老涩逼（lsb），所以要给他扣鸡腿
 
 | 出题人    | 难度 | 附件 |
 |-----------|------|------|
-| woodwhale | 简单 | [EzSnake.jar](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/EzSnake.jar) |
+| woodwhale | 简单 | [EzSnake.jar](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/EzSnake.jar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Y0u_4re_0ne_oNe_0nE_st4R}</code>
@@ -52,7 +52,7 @@ Yesec 是个老涩逼（lsb），所以要给他扣鸡腿
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| qsdz   | 简单 | [qsdzs_girlfriend_1.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/qsdzs_girlfriend_1.zip) |
+| qsdz   | 简单 | [qsdzs_girlfriend_1.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/qsdzs_girlfriend_1.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Hikari_20031201}</code>

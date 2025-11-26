@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| Lu1u   | 简单 | [task_be.exe](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/task_be.exe) |
+| Lu1u   | 简单 | [task_be.exe](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week2/task_be.exe) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{begin_and_end_re_and_you}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| Lu1u   | 简单 | [task_time](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/task_time) |
+| Lu1u   | 简单 | [task_time](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week2/task_time) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{D0nt_let_time_bo_so_cheap!}</code>
@@ -28,7 +28,7 @@ Where is my gift?
 
 | 出题人   | 难度 | 附件 |
 |----------|------|------|
-| Xunflash | 简单 | [Likemyasp.exe](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/Likemyasp.exe) |
+| Xunflash | 简单 | [Likemyasp.exe](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week2/Likemyasp.exe) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{x1hu@n_w0_4sp_ma??}</code>
@@ -40,7 +40,7 @@ Where is my gift?
 
 | 出题人   | 难度 | 附件 |
 |----------|------|------|
-| FallW1nd | 简单 | [Petals](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/Petals) |
+| FallW1nd | 简单 | [Petals](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week2/Petals) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{d780c9b2d2aa9d40010a753bc15770de}</code>
@@ -52,7 +52,7 @@ mY fLoWer 2 yOu
 
 | 出题人   | 难度 | 附件 |
 |----------|------|------|
-| FallW1nd | 简单 | [ur_so_naive.apk](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/ur_so_naive.apk) |
+| FallW1nd | 简单 | [ur_so_naive.apk](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week2/ur_so_naive.apk) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{n@1ve_luv_2you#ouo}</code>

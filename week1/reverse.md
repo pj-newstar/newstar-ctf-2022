@@ -4,7 +4,7 @@
 
 | 出题人   | 难度 | 附件 |
 |----------|------|------|
-| FallW1nd | 签到 | [app.apk](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/app.apk) |
+| FallW1nd | 签到 | [app.apk](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/app.apk) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Act1v1ty_!s_so00oo0o_Impor#an#}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| Gift1a | 签到 | [Init_re](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/Init_re) |
+| Gift1a | 签到 | [Init_re](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/Init_re) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{S0meth1ng_run_bef0re_main!}</code>
@@ -28,7 +28,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| Gift1a | 签到 | [EasyRe.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/EasyRe.zip) |
+| Gift1a | 签到 | [EasyRe.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/EasyRe.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Base64_1s_1nterestr1ng!!}</code>
@@ -40,7 +40,7 @@
 
 | 出题人   | 难度 | 附件 |
 |----------|------|------|
-| FallW1nd | 签到 | [Hello_Reversing.exe](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/Hello_Reversing.exe) |
+| FallW1nd | 签到 | [Hello_Reversing.exe](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/Hello_Reversing.exe) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{h3llo_r3vers1ng_w0rld}</code>
@@ -52,7 +52,7 @@ Reversing is the new sexy!!
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| Gift1a | 签到 | [pyre.exe](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/pyre.exe) |
+| Gift1a | 签到 | [pyre.exe](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/pyre.exe) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{PYRE_1S_S0_FUN!!!}</code>

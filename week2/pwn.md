@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |--------|------|------|----------|------|
-| Niyah  | 简单 | [buffer_fly.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/buffer_fly.zip) | [newstar-2022:week2_buffer-fly](https://hub.docker.com/r/openctf/newstar-2022/tags?name=week2_buffer-fly) | `9999` |
+| Niyah  | 简单 | [buffer_fly.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week2/buffer_fly.zip) | [newstar-2022:week2_buffer-fly](https://hub.docker.com/r/openctf/newstar-2022/tags?name=week2_buffer-fly) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{b3c0me_4_butt3rf1y}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |--------|------|------|----------|------|
-| Nightu | 简单 | [shellcode_revenge.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/shellcode_revenge.zip) | [newstar-2022:week2_shellcode-revenge](https://hub.docker.com/r/openctf/newstar-2022/tags?name=week2_shellcode-revenge) | `12011` |
+| Nightu | 简单 | [shellcode_revenge.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week2/shellcode_revenge.zip) | [newstar-2022:week2_shellcode-revenge](https://hub.docker.com/r/openctf/newstar-2022/tags?name=week2_shellcode-revenge) | `12011` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details >
@@ -27,7 +27,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |--------|------|------|----------|------|
-| eeee   | 简单 | [uint](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/uint) | [newstar-2022:week2_uint32_ret](https://hub.docker.com/r/openctf/newstar-2022/tags?name=week2_uint32_ret) | `9999` |
+| eeee   | 简单 | [uint](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week2/uint) | [newstar-2022:week2_uint32_ret](https://hub.docker.com/r/openctf/newstar-2022/tags?name=week2_uint32_ret) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details >
@@ -36,7 +36,7 @@
 
 | 出题人    | 难度 | 附件 | 环境镜像 | 端口 |
 |-----------|------|------|----------|------|
-| Coldwinds | 中等 | [attachment.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week2/attachment.zip) | [newstar-2022:week2_kanyidao](https://hub.docker.com/r/openctf/newstar-2022/tags?name=week2_kanyidao) | `9999` |
+| Coldwinds | 中等 | [attachment.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week2/attachment.zip) | [newstar-2022:week2_kanyidao](https://hub.docker.com/r/openctf/newstar-2022/tags?name=week2_kanyidao) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details >

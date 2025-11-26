@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| Sias27 | 简单 | [LCG_Revenge.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week4/LCG_Revenge.zip) |
+| Sias27 | 简单 | [LCG_Revenge.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week4/LCG_Revenge.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{try_some_linear_algebra_technique}</code>
@@ -16,7 +16,7 @@ LCG, 但是三阶
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| Sias27 | 中等 | [ywyyh.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week4/ywyyh.zip) |
+| Sias27 | 中等 | [ywyyh.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week4/ywyyh.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{wow_wow_wow_you_solved_my_encryption}</code>
@@ -28,7 +28,7 @@ LCG, 但是三阶
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| Sias27 | 困难 | [dsgx.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week4/dsgx.zip) |
+| Sias27 | 困难 | [dsgx.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week4/dsgx.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{a1g3br4ic_re1at1on_i5_us3ful}</code>

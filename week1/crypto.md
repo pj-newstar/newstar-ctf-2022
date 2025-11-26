@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| Sias27 | 签到 | [ciphertext.5582361f.txt](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/ciphertext.5582361f.txt) |
+| Sias27 | 签到 | [ciphertext.5582361f.txt](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/ciphertext.5582361f.txt) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{bruteforce_is_useful_for_breaking_cipher}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| Sias27 | 签到 | [ciphertext.b000e386.txt](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/ciphertext.b000e386.txt) |
+| Sias27 | 签到 | [ciphertext.b000e386.txt](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/ciphertext.b000e386.txt) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{historical_cipher_is_vulnerable}</code>
@@ -28,7 +28,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| Sias27 | 签到 | [eazyxor.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/eazyxor.zip) |
+| Sias27 | 签到 | [eazyxor.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/eazyxor.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{x0r_i5_qu1t3_3azy}</code>
@@ -40,7 +40,7 @@
 
 | 出题人   | 难度 | 附件 |
 |----------|------|------|
-| Sycamore | 简单 | [chaos.py](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/chaos.py) |
+| Sycamore | 简单 | [chaos.py](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/chaos.py) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{ii24nji9-8ckkpil1-5hiev3n6-1u24g07m}</code>
@@ -52,7 +52,7 @@
 
 | 出题人       | 难度 | 附件 |
 |--------------|------|------|
-| Dawn_whisper | 简单 | [RSA_begin.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week1/RSA_begin.zip) |
+| Dawn_whisper | 简单 | [RSA_begin.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week1/RSA_begin.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{W0w_U_ar3_re4L1y_g0Od_4t_m4th_4nD_RSA!!}</code>

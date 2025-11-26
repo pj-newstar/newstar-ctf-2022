@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| 烨     | 签到 | [http.pcap](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week3/http.pcap) |
+| 烨     | 签到 | [http.pcap](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week3/http.pcap) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{4f33649d030c6778426971b54dd72ece}</code>
@@ -27,7 +27,7 @@
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| 烨     | 简单 | [webshell.pcap](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week3/webshell.pcap) |
+| 烨     | 简单 | [webshell.pcap](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week3/webshell.pcap) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{n3wst4r_www-data_Y0UAr3G00D}</code>
@@ -41,7 +41,7 @@ FLAG 格式为 `flag{WebShell密码_黑客获取的用户名_机密文件内容}
 
 | 出题人 | 难度 | 附件 |
 |--------|------|------|
-| qsdz   | 简单 | [YND31_1.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week3/YND31_1.zip) |
+| qsdz   | 简单 | [YND31_1.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week3/YND31_1.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{I_r3ally_Want_tO_be_1I1I1}</code>
@@ -55,7 +55,7 @@ FLAG 格式为 `flag{WebShell密码_黑客获取的用户名_机密文件内容}
 
 | 出题人   | 难度 | 附件 |
 |----------|------|------|
-| Sycamore | 中等 | [image.zip](https://github.com/project-newstar/newstar-ctf-2022/releases/download/attachment-week3/image.zip) |
+| Sycamore | 中等 | [image.zip](https://github.com/pj-newstar/newstar-ctf-2022/releases/download/attachment-week3/image.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{easy_chaos_encrypt!!!_776e6d30}</code>
